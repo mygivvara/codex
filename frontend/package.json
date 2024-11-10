@@ -16,7 +16,7 @@
     "test:ci": "vitest run --reporter verbose --update"
   },
   "dependencies": {
-    "@unhead/vue": "^1.7.2",
+    "@unhead/vue": "^1.11.10",
     "axios": "^1.4.0",
     "change-case-all": "^2.1.0",
     "core-js": "^3.31",
